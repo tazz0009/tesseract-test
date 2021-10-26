@@ -29,5 +29,5 @@ git init
 1. git commit
 ```
 git add .
-git commit -m "let learn fastAPI"
+git commit -m "first commit"
 ```
